@@ -1,10 +1,16 @@
 _repo: Ethan-Allen-The-Robin-Hood-of-Vermont_50929
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50929-h/images/cover.jpg
 creator:
   author:
     agent_name: Hall, Henry Foljambe
     gutenberg_agent_id: '38877'
     url: http://www.gutenberg.org/2009/agents/38877
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50929#Ethan-Allen-The-Robin-Hood-of-Vermont
 gutenberg_issued: '2016-01-15'
 gutenberg_type: Text
 identifiers:
